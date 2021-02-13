@@ -21,11 +21,11 @@ as kanye west said:
 - [x] this a complete item
 - [ ] this is an incomplete item
 
-'''javascript
+```javascript
 function test() {
 console.log("look ma',no spaces");
 }
-'''
+```
 
 First Header | Second Header
 -------------| ------------
