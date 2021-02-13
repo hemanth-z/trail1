@@ -20,3 +20,9 @@ as kanye west said:
 - [x] @mentions, #refs, [links](), **formating**, and <del>tags</del>supported\
 - [x] this a complete item
 - [ ] this is an incomplete item
+
+'''javascript
+function test() {
+console.log("look ma',no spaces");
+}
+'''
