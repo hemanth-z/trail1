@@ -16,3 +16,5 @@ as kanye west said:
 > the present is our past
 
 :+1:
+
+- [x] @mentions, #refs, [links](), **formating**, and <del>tags</del>supported
